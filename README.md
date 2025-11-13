@@ -4,7 +4,9 @@
 Starting with the Kodilla Full Stack Developer course (2022) and continuing with  React, Node.js, Astro and personal portfolio projects.
 
 ## 📅 Daily Log
-1. 10 Nov 2025 - HTMl & CSS Basics, Astro Components & Layouts
+1. 11 Nov 2025 - HTMl & CSS Basics, Astro Components & Layouts
+2. 12 Nov 2025 - Practise HTML, CSS, Astro and started working on responsiveness.
 
 ## 🧩 Project Index
 1. https://lexdiecast.vercel.app/
+2. https://lexagency.vercel.app/
